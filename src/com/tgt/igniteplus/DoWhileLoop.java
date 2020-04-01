@@ -1,4 +1,4 @@
-// Program to find the sum of numbers using do while
+// Program to find the sum of numbers using do while loop
 package com.tgt.igniteplus;
 import java.util.Scanner;
 public class DoWhileLoop {
